@@ -2,7 +2,7 @@
 # BOOTCAMP WEB DEVELOPMENT - fulltime
 ## LEWAGON BATCH 762
 ## Grooupon Faker
-## Be-useful
+## Be-u-seful
 
 Projetos desenvolvidos
 
